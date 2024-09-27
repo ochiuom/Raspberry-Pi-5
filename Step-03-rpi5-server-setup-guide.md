@@ -123,7 +123,7 @@ Tip: Use the DroidHole app from Google Play Store to monitor Pi-hole on your And
 7. Now on the file manager of Linux, type:
 
    ```bash
-   smb://ip-addr/mycloud/
+   smb://ip-addr-of-pi5/mycloud/
 
 ### Container 3: DuckDNS (Dynamic DNS)
 
