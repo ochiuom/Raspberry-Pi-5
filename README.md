@@ -4,10 +4,15 @@
 
 ### Prerequisites:
 Raspberry Pi 5
+
 Pironman 5 case (assembled)
+
 Samsung 980 1TB NVMe M.2 SSD
+
 SD card with Raspberry Pi Imager (Headless setup)
+
 MX Linux image (mx23.4_rpi.img or your preferred OS image)
+
 
 # Step 1:  Install Raspberry Pi OS on the SD Card and boot from it
 ## Follow the detailed instruction outlined in 01-step file
