@@ -14,11 +14,11 @@ SD card with Raspberry Pi Imager (Headless setup)
 MX Linux image (mx23.4_rpi.img or your preferred OS image)
 
 
-# Step 1:  Install Raspberry Pi OS on the SD Card and boot from it
-## Follow the detailed instruction outlined in 01-step file
+## Step 1:  Install Raspberry Pi OS on the SD Card and boot from it
+### Follow the detailed instruction outlined in 01-step file
 
-# Step 2: Configuration After Booting from SSD
-## Follow the detailed instruction outlined in 02-step file
+## Step 2: Configuration After Booting from SSD
+### Follow the detailed instruction outlined in 02-step file
 
 ### Now, before booting your Raspberry Pi 5 from the NVMe SSD, you need to decide how you want to use the system—either as a server accessed through SSH or with the full MX Linux GUI.
 
