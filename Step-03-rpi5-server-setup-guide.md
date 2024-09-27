@@ -124,6 +124,8 @@ Tip: Use the DroidHole app from Google Play Store to monitor Pi-hole on your And
 
    ```bash
    smb://ip-addr-of-pi5/mycloud/
+   ```
+   Similarly this cloud storage could be added as you normally do from windows using file-manager
 
 ### Container 3: DuckDNS (Dynamic DNS)
 
