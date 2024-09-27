@@ -120,10 +120,11 @@ Tip: Use the DroidHole app from Google Play Store to monitor Pi-hole on your And
       ```
       UUID=xxxxxxxxxxxxx  /mnt/cloudshare  ext4  defaults,noatime,nofail 0 0
       ```
-7. Now on file manager of linux type
-   ---bash
+7. Now on the file manager of Linux, type:
+
+   ```bash
    smb://ip-addr/mycloud/
-   ---
+
 ### Container 3: DuckDNS (Dynamic DNS)
 
 1. Install DuckDNS from Portainer.
