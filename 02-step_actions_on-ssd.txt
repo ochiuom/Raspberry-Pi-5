@@ -26,11 +26,13 @@ Ensure SSH starts automatically on boot:
 sudo systemctl enable ssh
 
 4. Add a New User and Remove Default
-Create your own user and remove the default demo user:
+Create your own user (say, tspl)and remove the default demo user:
 
-sudo adduser <your-username>
-sudo usermod -aG sudo <your-username>
-sudo passwd <your-username>
+sudo adduser tspl
+sudo usermod -aG sudo tspl
+sudo passwd tspl
+
+#now exit and logback in using your new user tspl
 
 sudo deluser demo
 sudo deluser --remove-home demo
