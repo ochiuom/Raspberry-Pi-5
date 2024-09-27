@@ -11,7 +11,7 @@ This guide will walk you through the process of setting up your Raspberry Pi 5 a
 
 ```bash
 curl -sSL https://get.docker.com | sh
-sudo usermod -aG docker <your-username>
+sudo usermod -aG docker tspl
 sudo apt install docker-compose
 sudo systemctl enable docker
 sudo systemctl start docker
