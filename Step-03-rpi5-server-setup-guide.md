@@ -77,9 +77,9 @@ Tip: Use the DroidHole app from Google Play Store to monitor Pi-hole on your And
    ```bash
    sudo mkdir -p /mnt/cloudshare/mycloud
    sudo chmod -R 0770 /mnt/cloudshare/mycloud
-   sudo useradd -G sambashare harupi5
-   sudo smbpasswd -a harupi5
-   sudo chown -R harupi5:sambashare /mnt/cloudshare/mycloud
+   sudo useradd -G sambashare tspl
+   sudo smbpasswd -a tspl
+   sudo chown -R tspl:sambashare /mnt/cloudshare/mycloud
    ```
 
 4. Configure Samba:
