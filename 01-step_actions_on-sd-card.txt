@@ -17,7 +17,7 @@ Insert the SD card into your Raspberry Pi 5 and power it on.
 Open a terminal and run the following commands:
 
 # View connected storage devices
-lsblk
+**lsblk**
 
 # Create a new partition table on the NVMe SSD
 sudo fdisk /dev/nvme0n1
