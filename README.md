@@ -20,7 +20,7 @@ MX Linux image (mx23.4_rpi.img or your preferred OS image)
 # Step 2: Configuration After Booting from SSD
 ## Follow the detailed instruction outlined in 02-step file
 
-### Now that you've successfully booted your Raspberry Pi 5 from the NVMe SSD, you need to decide how you want to use the system—either as a server accessed through SSH or with the full MX Linux GUI.
+### Now, before booting your Raspberry Pi 5 from the NVMe SSD, you need to decide how you want to use the system—either as a server accessed through SSH or with the full MX Linux GUI.
 
 ### Case 1: Headless Server (SSH Only)
 ### Case 2: MX linux or any other linux GUI OS
