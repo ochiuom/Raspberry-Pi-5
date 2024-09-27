@@ -4,7 +4,11 @@ This guide will walk you through the steps to install and boot MX Linux on a Sam
 
 Prerequisites:
 Raspberry Pi 5
+
 Pironman 5 case (assembled)
+
 Samsung 980 1TB NVMe M.2 SSD
+
 SD card with Raspberry Pi Imager (Headless setup)
+
 MX Linux image (mx23.4_rpi.img or your preferred OS image)
