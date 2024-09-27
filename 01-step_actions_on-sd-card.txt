@@ -12,12 +12,12 @@ Click "Write" to flash the OS to the SD card.
 
 2. Boot from SD Card and Prepare NVMe SSD
 ===========================================================================================
-
+Make a copy of downloaded mx23.4.img file in root partition and place it inside of home folder 
 Insert the SD card into your Raspberry Pi 5 and power it on.
 Open a terminal and run the following commands:
 
 # View connected storage devices
-**lsblk**
+lsblk
 
 # Create a new partition table on the NVMe SSD
 sudo fdisk /dev/nvme0n1
