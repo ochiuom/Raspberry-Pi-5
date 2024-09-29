@@ -51,7 +51,6 @@ Access Portainer by navigating to `localhost:9000` in your web browser.
    - https://avoidthehack.com/best-pihole-blocklists
    - https://github.com/blocklistproject/Lists
    - https://sefinek.net/blocklist-generator
-   - https://github.com/juanico10/Pihole_list?tab=readme-ov-file
    - https://github.com/mmotti/pihole-regex/tree/master
    - https://github.com/lightswitch05/hosts
 
