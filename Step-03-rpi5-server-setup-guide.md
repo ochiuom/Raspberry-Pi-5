@@ -52,7 +52,7 @@ Access Portainer by navigating to `localhost:9000` in your web browser.
    - https://github.com/blocklistproject/Lists
    - https://sefinek.net/blocklist-generator
    - https://github.com/mmotti/pihole-regex/tree/master
-   - https://github.com/lightswitch05/hosts
+   - https://v.firebog.net/hosts/lists.php
 
 6. Activate blocklists by running: `tools > update gravity`
 
